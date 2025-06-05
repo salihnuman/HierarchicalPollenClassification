@@ -18,10 +18,6 @@ We introduce a new dataset consisting of **1,787 microscopic pollen grain images
   - **Species** (274 classes)
 - A combined loss function balances learning across all taxonomic levels.
 
-<p align="center">
-  <img src="figures/architecture.png" alt="Model Architecture" width="600"/>
-</p>
-
 ## Dataset
 
 The dataset contains annotated microscope images of pollen grains collected from **Bingöl, Türkiye**. Each sample is labeled at the family, genus, and species levels.
