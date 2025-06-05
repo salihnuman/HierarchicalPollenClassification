@@ -1,0 +1,339 @@
+-Acanthaceae
+Acanthus dioscoridis L.
+Acanthus sp.
+-Adoxaceae
+Sambucus ebulus L.
+Sambucus nigra L.
+Viburnum lantana L.
+-Amaranthaceae
+Chenopodium foliosum (Moench) Asch.
+-Amaryllidaceae
+Allium rotundum L. (sin. Allium ampeloprasum L.)
+Allium sp.
+-Anacardiaceae
+Cotinus coggygria Scop.
+Rhus coriaria L.
+Rhus sp.
+-Apiaceae
+Eryngium campestre L.
+Ferula orientalis L.
+Malabaila lasiocarpa Boiss.
+Lecokia cretica (Lam.) DC.
+Apiaceae
+Eryngium campestre
+Pimpinella sp.
+-Asparagaceae
+Leopoldia tenuiflora (Tausch) Heldr. (sin. Muscari tenuiflorum Tausch) 
+Ornithogalum narbonense L.
+-Asteraceae
+Achillea arabica Kotschy
+Achillea millefolium L.
+Achillea vermicularis Trin.
+Anthemis cretica L. 
+Arctium minus (Hill) Bernh.
+Artemisia absinthium L.
+Bellis perennis L.
+Carduus nutans L.
+Centaurea bingoelensis Behçet & İlçim*
+Centaurea iberica Trev. ex Spreng.
+Centaurea kurdica Reichardt*
+Centaurea saligna (K.Koch) Wagenitz*
+Centaurea solstitialis  L.
+Centaurea spectabilis (Fisch. & C.A.Mey.) Sch.Bip.
+Centaurea urvillei DC.
+Centaurea virgata Lam.
+Chondrilla brevirostris Fisch. & C.A.Mey. (sin. Chondrilla juncea L.)
+Cichorium intybus L.
+Cirsium arvense (L.) Scop
+Cirsium yildizianum Arabacı & Dirmenci*
+Cota altissima (L.) J.Gay
+Crepis sancta (L.) Bornm.
+Cyanus triumfettii (All.) Dostál ex Á.Löve & D.Löve
+Echinops pungens Trautv.
+Gundelia tournefortii L.
+Helichrysum arenarium (L.) Moench.
+Helichrysum plicatum DC.
+Iranecio eriospermus (DC.) C. Jeffrey (sin. Senecio eriospermus DC.)
+Matricaria chamomilla L.
+Onopordum acanthium L.
+Scorzonera latifolia (Fisch. & C.A.Mey.) DC.
+Tanacetum balsamita L.
+Tanacetum zahlbruckneri (Náb.) Grierson*
+Taraxacum campylodes G.E.Haglund (sin. Taraxacum officinale (L.) Weber ex F.H.Wigg.)
+Tussilago farfara L.
+Xeranthemum annuum L.
+Xeranthemum longipapposum Fisch. & C.A.Mey
+Asteraceae
+Artemisia sp.
+Carduus sp.
+Centaurea sp.
+Cichorium sp.
+Cirsium sp.
+Cirsium yildizianum
+Echinops sp.
+Gundelia sp.
+Helianthus sp.
+Helichrysum sp.
+Onopordum sp.
+Ptilostemon sp.
+Xanthium sp.
+Xeranthemum sp.
+-Boraginaceae
+Alkanna orientalis (L.) Boiss.
+Anchusa azurea Mill. 
+Anchusa leptophylla  Roem. & Schult.
+Cerinthe minor L.
+Echium italicum L.
+Myosotis alpestris F.W.Schmidt
+Myosotis laxa Lehm.
+Myosotis stricta Roem. & Schult.
+Myosotis sylvatica subsp. cyanea (Hayek) Vestergr.
+Phyllocara aucheri (A.DC.) Guşul.
+Anchusa sp.
+Echium sp.
+-Brassicaceae
+Aethionema grandiflorum Boiss. & Hohen.
+Capsella bursa-pastoris (L.) Medik.
+Isatis glauca Aucher ex Boiss.
+Lepidium draba L.
+Raphanus raphanistrum L.
+-Campanulaceae
+Campanula involucrata Aucher ex A.DC.
+Campanula propinqua Fisch. & C.A.Mey.
+Campanula stricta L.var. stricta 
+Campanula sp.
+-Caprifoliaceae
+Centranthus longiflorus Steven
+Morina persica L.
+Scabiosa columbaria L. 
+Scabiosa rotata M. Bieb.
+Cephalaria sp.
+Scabiosa sp.
+Valeriana sp.
+-Caryophyllaceae
+Cerastium armeniacum Gren.*
+Saponaria prostrata Willd.
+Saponaria viscosa C.A.Mey.
+Silene compacta Fisch. 
+Silene spergulifolia (Desf.) M.Bieb
+Caryophyllaceae
+Dianthus sp.
+Silene sp.
+-Chenopodiaceae
+Chenopodium sp.
+-Convolvulaceae
+Convolvulus arvensis L.
+Convolvulus galaticus Rost. ex Choisy
+Convolvulus lineatus L.
+Convolvulus sp.
+-Cornaceae
+Cornus sanguinea L.
+-Crassulaceae
+Phedimus obtusifolius (C.A.Mey.) Hart
+-Elaeagnaceae
+Elaeagnus angustifolia L.
+-Euphorbiaceae
+Euphorbia esula L. subsp. tommasiniana (Bertol.) Kuzmanov
+Euphorbia macrocarpa Boiss. & Buhse
+Euphorbia sp.
+-Fabaceae
+Astracantha gummifera (Labill.) Podlech (sin. Astragalus gummifer Labill.)
+Astracantha kurdica (Boiss.) Podlech (sin. Astragalus kurdicus Boiss.)
+Astracantha muschiana (Kotschy & Boiss.) Podlech (sin. Astragalus muschianus Kotschy & Boiss. ex Boiss.)
+Astragalus aduncus Willd. (sin: Astragalus bingollensis Podlech.)
+Astragalus bustillosii Clos (sin. Astragalus brachycalyx subsp. brachycalyx Fisch. ex Boiss.)
+Astragalus caspicus M.Bieb.
+Astrgalus lagopoides Lam
+Astragalus onobrychis L.
+Astragalus oocephalus Boiss.
+Astragalus pinetorum Boiss.
+Astragalus saganlugensis Trautv.
+Astragalus topalanense İlçim & Behçet *
+Colutea cilicica Boiss. & Balansa
+Genista aucheri Boiss.*
+Glycyrrhiza glabra L.
+Lathyrus brachypterus Čelak.*
+Lathyrus satdaghensis P.H.Davis*
+Lotus corniculatus L.
+Lotus gebelia Vent. 
+Hedysarum varium Willd.
+Medicago sativa L.
+Melilotus albus Medik.
+Melilotus officinalis (L.) Pall.
+Onobrychis viciifolia Scop.
+Ononis spinosa L.
+Robinia pseudoacacia L.
+Securigera varia (L.) Lassen
+Trifolium campestre Schreb.
+Trifolium diffusum Ehrh.
+Trifolium nigrescens Viv.
+Trifolium pauciflorum d'Urv.
+Trifolium pratense L.
+Trifolium resupinatum  L.
+Vicia cracca L. subsp. cracca 
+Astragalus gummifer
+Astragalus longifolius
+Astragalus topalanense
+Astragalus spp.
+Coronilla sp.
+Hedysarum sp.
+Lathyrus sp.
+Lotus sp.
+Melilotus sp.
+Trifolium spp.
+Vicia sp.
+-Fagaceae
+Quercus petraea (Matt.) Liebl. subsp. pinnatiloba (K.Koch) Menitsky*
+-Geraniaceae
+Geranium tuberosum L.
+Geranium sp.
+-Hypericaceae
+Hypericum lydium Boiss.
+Hypericum perforatum L.
+Hypericum scabrum L.
+Hypericum spp.
+-Ixioliriaceae
+Ixiolirion tataricum (Pall.) Schult. & Schult.f.
+-Lamiaceae
+Ajuga chamaepitys subsp. chia (Schreb.) Arcang.
+Lamium album  L.
+Lamium garganicum L.
+Lamium macrodon Boiss. & Huet
+Marrubium astracanicum Jacq.
+Marrubium vulgare L.
+Mentha longifolia (L.) L. subsp. longifolia
+Mentha spicata L.
+Nepeta baytopii Hedge & Lamond*
+Nepeta cataria L.
+Nepeta nuda L.
+Nepeta trachonitica Post
+Origanum acutidens (Hand.-Mazz.) Ietsw*
+Origanum vulgare L. subsp. gracile (K.Koch) Iestw.
+Phlomis armeniaca Willd.
+Phlomis herba-venti subsp. pungens (Willd.) Maire ex DeFilipps (sin. Phlomis pungens Willd.)
+Phlomis kurdica Rech.
+Salvia frigida Boiss.
+Salvia limbata C.A.Mey.
+Salvia macrochlamys Boiss. & Kotschy
+Salvia multicaulis Vahl
+Salvia palaestina Benth.
+Salvia sclarea L.
+Salvia staminea Montbret & Aucher ex Benth.
+Salvia trichoclada Benth
+Salvia verticillata L.
+Salvia virgata Jacq.
+Satureja hortensis L.
+Stachys annua (L) L.
+Stachys lavandulifolia Vahl
+Teucrium chamaedrys L.
+Teucrium orientale L.
+Teucrium polium L
+Thymus kotschyanus Boiss. & Hohen.
+Thymus pubescens Boiss. & Kotschy ex Celak.
+Lamium macrodon
+Lamium sp.
+Origanum sp.
+Phlomis sp.
+Teucrium sp.
+Thymus spp.
+-Linaceae
+Linum mucronatum subsp. armenum (Bordz.) P.H.Davis
+-Lythraceae
+Lythrum salicaria L.
+-Malvaceae
+Alcea apterocarpa Boiss.
+Alcea remotiflora (Boiss. & Heldr.) Alef.
+Malva neglecta Wallr.
+Malvaceae
+Alcea sp.
+Malva sp.
+Tilia sp.
+-Moraceae
+Morus alba L.
+-Onagraceae
+Epilobium parviflorum Schreb.
+-Papaveraceae
+Fumaria parviflora Lam
+Fumaria schleicheri subsp. microcarpa (Hausskn.) Lidén
+Papaver dubium L. 
+Papaver orientale L.
+-Plantaginaceae
+Anarrhinum orientale Benth.
+Globularia trichosantha Fisch. & C.A.Mey
+Lagotis stolonifera Maxim. 
+Linaria pyramidata Spreng.
+Plantago lanceolata L.
+Plantago major L.
+Plantago media L.
+Linaria sp.
+-Plumbaginaceae
+Acantholimon acerosum (Willd.) Boiss.
+Acantholimon armenum Boiss. & Huet.
+Acantholimon calvertii Boiss. 
+Acantholimon sp.
+-Poaceae
+Poaceae
+Zea mays
+-Polygonaceae
+Polygonum cognatum Meissn.
+Rheum ribes L.
+Rumex acetosella L.
+Rumex scutatus L.
+Rumex sp.
+-Primulaceae
+Lysimachia punctata L.
+-Portulacaceae
+Portulaca sp.
+-Ranunculaceae
+Ficaria fascicularis K.Koch (sin. Ranunculus kochii Ledeb.)
+Ranunculus heterorrhizus Boiss. & Balansa*
+Ranunculus kotschyi Boiss.
+Ranunculus sp.
+-Rhamnaceae
+Paliurus spina-christi P. Mill.
+-Rosaceae
+Agrimonia repens L.
+Cotoneaster nummularius Fisch. & C.A.Mey.
+Crataegus orientalis Pall. ex M.Bieb.
+Crataegus monogyna Jacq.
+Filipendula ulmaria (L.) Maxim.
+Malus sylvestris (L.) Mill.
+Potentilla anatolica Peşmen*
+Potentilla argentea L.
+Prunus divaricata Ledeb. subsp. ursina (Kotschy)Browicz 
+Pyrus elaeagnifolia Pall.
+Rosa canina L.
+Rosa foetida J.Herrm.
+Rubus caesius L. 
+Rubus sanctus Schreb.
+Sanguisorba minor L. subsp. lasiocarpa (Boiss. & Hausskn.) Nordborg
+Sorbus torminalis (L.) Crantz
+Rosaceae
+Filipendula sp.
+Potentilla sp.
+Rosa canina
+-Rubiaceae
+Galium consanguineum Boiss.
+Galium verum L.
+Galium sp.
+-Rutaceae
+Citrus sp.
+-Salicaceae
+Salix alba L.
+Salix caprea L.
+Salix sp.
+-Scrophulariaceae
+Verbascum armenum Boiss. & Kotschy ex Boiss.
+Verbascum diversifolium Hochst*.
+Verbascum gimgimense Fırat*
+Verbascum lasianthum Boiss. ex Benth.
+Verbascum sinuatum  L.
+Verbascum spp.
+-Tamaricaceae
+Tamarix smyrnensis Bunge
+Tamarix tetrandra Pall. ex M.Bieb.
+-Xanthorrhoeaceae
+Eremurus spectabilis M.Bieb.
+Eremurus sp.
+-Zygophyllaceae
+Tribulus terrestris L.
