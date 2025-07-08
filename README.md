@@ -26,7 +26,6 @@ You can access the dataset used in this project from the following link:
 
 👉 [Download Dataset](https://drive.google.com/file/d/1oxW8eqFD6Y8ERuv7Vt2-p87rJXn6uKJF/view?usp=drive_link)
 
-> ⚠️ **Note:** You
 
 ## Results
 
