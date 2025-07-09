@@ -24,12 +24,16 @@ The dataset contains annotated microscope images of pollen grains collected from
 
 ## Example Images
 
-![example_image_1](example_image_1.png)
-![example_image_2](example_image_2.png)
-![example_image_0](example_image_0.png)
-![example_image_3](example_image_3.png)
-![example_image_4](example_image_4.png)
-![example_image_5](example_image_5.png)
+<p align="center">
+  <img src="example_image_0.png" width="200"/>
+  <img src="example_image_1.png" width="200"/>
+  <img src="example_image_2.png" width="200"/>
+</p>
+<p align="center">
+  <img src="example_image_3.png" width="200"/>
+  <img src="example_image_4.png" width="200"/>
+  <img src="example_image_5.png" width="200"/>
+</p>
 
 You can access the dataset used in this project from the following link:
 
