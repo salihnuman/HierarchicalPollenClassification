@@ -22,6 +22,15 @@ We introduce a new dataset consisting of **1,787 microscopic pollen grain images
 
 The dataset contains annotated microscope images of pollen grains collected from **Bingöl, Türkiye**. Each sample is labeled at the family, genus, and species levels. The dataset was created by **Veysel Süzerer** from **Bingol University**.
 
+## Example Images
+
+![example_image_1](example_image_1.png)
+![example_image_2](example_image_2.png)
+![example_image_0](example_image_0.png)
+![example_image_3](example_image_3.png)
+![example_image_4](example_image_4.png)
+![example_image_5](example_image_5.png)
+
 You can access the dataset used in this project from the following link:
 
 👉 [Download Dataset](https://drive.google.com/file/d/1oxW8eqFD6Y8ERuv7Vt2-p87rJXn6uKJF/view?usp=drive_link)
